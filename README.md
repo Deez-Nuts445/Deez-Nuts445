@@ -1,5 +1,7 @@
 ### Hi, there! :wave:
 
+## Happy New Year! 🎊
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deez-nuts445)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎧 Listening to
