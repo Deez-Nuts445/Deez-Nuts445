@@ -29,7 +29,7 @@
   <img alt="Github Fork" src="https://img.shields.io/badge/-Fork%20D3xWare-lightgrey?style=plastic&logo=github">
   </a>
    <a href="https://github.com/D3x-Scripts">
-  <img alt="D3x Scripts" src="https://img.shields.io/badge/-Fork%20D3xWare-lightgrey?style=plastic&logo=github">
+  <img alt="D3x Scripts" src="https://img.shields.io/badge/-D3x%20Scripts-lightgrey?style=plastic&logo=github">
   </a>
   
       
