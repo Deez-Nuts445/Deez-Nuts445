@@ -27,7 +27,7 @@
    <a href="https://www.buymeacoffee.com/deeznuts445">
   <img alt="Buy me a pack of fries???(no actually its buymeacoffee but customised)" src="https://img.shields.io/badge/%F0%9F%8D%9F%20Buy%20me-a%20pack%20of%20fries-lightgrey">
   </a>
-   <a href="https://github.com/Deez-Nuts445/D3xWare/fork">
+   <a href="https://github.com/D3x-Scripts/D3xWare/fork">
   <img alt="Github Fork" src="https://img.shields.io/badge/-Fork%20D3xWare-lightgrey?style=plastic&logo=github">
   </a>
    <a href="https://github.com/D3x-Scripts">
