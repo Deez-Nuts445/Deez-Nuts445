@@ -1,6 +1,5 @@
 ### Hi, there! :wave:
 
-## ~~Happy New Year! 🎊~~ No, its not happy new years anymore.
 
 ### - *no your not getting my age* yr who has a undeveloped brain and makes scripts
 ### - currently trying to ask my sanity
@@ -20,6 +19,8 @@
 
 
 ## Things I wanted to share
+
+
  <a href="https://www.youtube.com/channel/UC2u8s9UCLcAGSajewhTC_eg">
   <img alt="YT Subs" src="https://img.shields.io/youtube/channel/subscribers/UC2u8s9UCLcAGSajewhTC_eg?label=Subs&style=social">
   </a>
