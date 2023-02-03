@@ -5,6 +5,7 @@
 ### - currently trying to ask my sanity
 ### - ahh s*** what can i write here
 ### - IMPORTANT! D3xWare now has moved to the D3x Scripts Org.
+### - I think im going insane from Luau coding...
 
 
 [![No, we dont do ads here you mother-](https://github-readme-stats.vercel.app/api?username=deez-nuts445)](https://github.com/anuraghazra/github-readme-stats)
