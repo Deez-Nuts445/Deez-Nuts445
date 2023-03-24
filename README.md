@@ -2,7 +2,7 @@
 
 ### Dunno what to put here
 ---------------------------------------
-## New shit that i found out:
+## New 💩 that i found out:
 ### You can use a function to get someone's ip, both serversided and client side(exploit only)
 ---------------------------------------
 ## Introduction
