@@ -12,6 +12,7 @@
 ### - ahh s*** what can i write here
 ### - IMPORTANT! D3xWare now has moved to the D3x Scripts Org.
 ### - I think im going insane from Luau coding...
+### - Nvm my executors broke, time to do AI Coding
 ---------------------------------------
 ## Stats:
 [![No, we dont do ads here you mother-](https://github-readme-stats.vercel.app/api?username=deez-nuts445)](https://github.com/anuraghazra/github-readme-stats)
