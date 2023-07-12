@@ -22,15 +22,17 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=462liqp2kp82qgg13voo5yo7n&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### 🛠 Languages I have worked with
+### 🛠 Skills
 
-<img align="left" alt="Lua" width="30px" src="https://cdn.upload.systems/uploads/2yDVfu3U.png" />
-
-
-
-
-<img align="center" alt="" width="1px" src="https://user-images.githubusercontent.com/45857590/149463930-a5cace34-a309-419a-b081-d07e686f8ef7.png"/>
-
+| Skill Name    | Year(s) | Knowledge       
+| ------------- |:-------------:|------------:|
+| Luau(aka roblox lua)| 5 | 95% |
+| Lua | 5 | 75% |
+| javascript | 0 | 10% |
+| python | 0 | 10% |
+| html | 1 | 25% |
+|ChatGPT Prompting	| 1-2 |	76%
+|CSS	| 0 |	5% |
 
 
 
