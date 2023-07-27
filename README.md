@@ -12,7 +12,7 @@
 ### - ahh s*** what can i write here
 ### - IMPORTANT! D3xWare now has moved to the D3x Scripts Org.
 ### - I think im going insane from Luau coding...
-### - Nvm my executors broke, time to do AI Coding
+### - Nvm my executors broke, time to do AI ~~Coding~~ propmpt enginerring
 ### - Made the Fractions++ plugin.
 ---------------------------------------
 ## Stats:
