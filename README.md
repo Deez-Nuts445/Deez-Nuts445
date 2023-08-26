@@ -16,6 +16,7 @@
 ### - Made the Fractions++ plugin.
 ---------------------------------------
 ## Stats:
+![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
 [![No, we dont do ads here you mother-](https://github-readme-stats.vercel.app/api?username=deez-nuts445)]()
 ---------------------------------------
 ### 🎧 Listening to
