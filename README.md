@@ -47,13 +47,10 @@
    <a href="https://www.buymeacoffee.com/deeznuts445">
   <img alt="Buy me a pack of fries???(no actually its buymeacoffee but customised)" src="https://img.shields.io/badge/%F0%9F%8D%9F%20Buy%20me-a%20pack%20of%20fries-lightgrey">
   </a>
-   <a href="https://github.com/D3x-Scripts/D3xWare/fork">
-  <img alt="Github Fork" src="https://img.shields.io/badge/-F**k%20D3xWare-lightgrey?style=plastic&logo=github">
-  </a>
   <a href="https://github.com/D3x-Scripts">
   <img alt="D3x Scripts" src="https://img.shields.io/badge/-D3x%20Scripts-lightgrey?style=plastic&logo=github">
   </a>
-  <a href="https://scripter.cutecats.vip/u/​‌‌‌‌​‌​​‌​‌​‌​​​‌‌​‌​​‌​‌​​​‌​‌​‌‌​​‌‌‌​‌​‌​​‌‌​‌​‌‌​‌​​‌​​‌‌‌‌">
+  <a href="https://www.roblox.com/users/3729175718/profile">
   <img alt="Ma Roblos" src="https://img.shields.io/badge/-Roblox%20Profile-lightgrey?style=plastic&logo=roblox">
   </a>
       
