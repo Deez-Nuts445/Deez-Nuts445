@@ -14,6 +14,7 @@
 ### - I think im going insane from Luau coding...
 ### - Nvm my executors broke, time to do AI ~~Coding~~ propmpt enginerring
 ### - Made the Fractions++ plugin.
+### - Retired Exploiter
 ---------------------------------------
 ## Stats:
 ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
