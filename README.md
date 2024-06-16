@@ -15,7 +15,7 @@
 ### - ~~Nvm my executors broke~~, time to do AI ~~Coding~~ propmpt enginerring
 ### - Made the Fractions++ plugin.
 ### - ~~Retired~~ Exploiter (as long as solara doesent get boom shakalaboomed again)
-### Too bad i rm -rf'd d3xware one year ago, gotta make it back
+### - Too bad i rm -rf'd d3xware one year ago, gotta make it back
 ---------------------------------------
 ## Stats:
 ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
