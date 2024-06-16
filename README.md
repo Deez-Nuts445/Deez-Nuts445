@@ -1,9 +1,5 @@
 # Hi, there! 👋
-
-### Dunno what to put here
----------------------------------------
-## New 💩 that i found out:
-### You can use a function to get someone's ip, both serversided and client side(exploit only)
+## How are you?
 ---------------------------------------
 ## Introduction
 
@@ -29,13 +25,13 @@
 
 | Skill Name    | Year(s) | Knowledge       
 | ------------- |:-------------:|------------:|
-| Luau(aka roblox lua)| 5 | 95% |
-| Lua | 5 | 75% |
+| Luau(aka roblox lua)| 6 | 95% |
+| Lua | 6 | 75% |
 | javascript | 0 | 10% |
 | python | 0 | 10% |
 | html | 1 | 25% |
-|ChatGPT Prompting	| 1-2 |	76%
-|CSS	| 0 |	5% |
+|ChatGPT Prompting	| 2 |	76%
+|CSS	| 1 |	5% |
 
 
 
