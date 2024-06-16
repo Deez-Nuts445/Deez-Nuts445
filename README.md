@@ -12,9 +12,10 @@
 ### - ahh s*** what can i write here
 ### - IMPORTANT! D3xWare now has moved to the D3x Scripts Org.
 ### - I think im going insane from Luau coding...
-### - Nvm my executors broke, time to do AI ~~Coding~~ propmpt enginerring
+### - ~~Nvm my executors broke~~, time to do AI ~~Coding~~ propmpt enginerring
 ### - Made the Fractions++ plugin.
-### - Retired Exploiter
+### - ~~Retired~~ Exploiter (as long as solara doesent get boom shakalaboomed again)
+### Too bad i rm -rf'd d3xware one year ago, gotta make it back
 ---------------------------------------
 ## Stats:
 ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![hi](https://raw.githubusercontent.com/Deez-Nuts445/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
